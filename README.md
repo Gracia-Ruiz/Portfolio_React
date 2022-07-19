@@ -3,7 +3,7 @@
 This project is a small portfolio built in react and css.
 Each section is a component and each section has a style sheet.
 There is also a general style sheet.
-Also, you can see this portfolio in [graciaruizmanzano.es](http://graciaruizmanzano.es/)
+Also, you can see this portfolio in [graciaruizmanzano.es](http://graciaruizmanzano.es/).**NOT AVAILABLE IN PRODUCTION YET**.
 
 ## Components.
 
